@@ -21,17 +21,17 @@
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "2348142672374",
     "required": true
   },
   "GITHUB_USERNAME": {
     "description": "You must set your github username to use the bot unless you're a premium user",
-    "value": "",
+    "value": "gudluck101",
     "required": false
   },
    "BOT_PASSWORD": {
     "description": "This will be used as auth code for others who'll connect using the app web",
-    "value": "12345678",
+    "value": "123456789",
     "required": false
   },
    "PREMIUM_KEY": {
@@ -56,7 +56,7 @@
   },
     "ADMIN_PASSWORD": {
     "description": "This will be used as a password for gaining administrative access to the bot",
-    "value": "11223344",
+    "value": "12345678",
     "required": false
   }, 
     "TELEGRAM_BOT_TOKEN": {
